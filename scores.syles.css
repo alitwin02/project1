@@ -1,0 +1,48 @@
+table {
+    border: 5px solid black;  
+    border-radius: 10px;
+    width: 100%;
+    word-spacing: 15px;
+}
+
+body {
+    background-color:lightskyblue;
+}
+
+td {
+    float: bottom-left;
+    padding: 2px;
+    font-size: xx-large;
+    
+}
+.stat tr td {
+    border: 5px solid black;
+    width: 200px;
+    height: 200px;
+    top: 160px;
+    z-index: 1;
+    font-size: medium;
+}
+div {
+    color: black;
+    
+}
+.table3 {
+    position: absolute;
+    top: 120%;
+    width: 100%;
+}
+img{
+    height: 200px;
+    width: 150px;
+    text-align: center;
+}
+.headimg {
+    width: 200px;
+    height: 150px;
+}
+
+.yanks {
+    width: 200px;
+    height: 200px;
+}

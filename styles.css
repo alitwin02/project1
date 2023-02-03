@@ -1,0 +1,63 @@
+.table1 {
+    border: 5px solid black;  
+    border-radius: 10px;
+    width: 100%;
+    word-spacing: 15px;
+}
+
+
+
+td {
+    float: bottom-left;
+    padding: 2px;
+    font-size: xx-large;
+    
+}
+
+.q1 {
+    text-align: left;
+    position: absolute ; right: 75%;
+    
+}
+.q2 {
+    text-align: right;
+    position: absolute;right: 20%; bottom: 50%;
+    
+}
+body {
+    background-color:lightskyblue;
+}
+.table2 {
+    border: 5px solid black;
+    width: 100%;
+    color: black;
+    bottom: 100%;
+}
+.Q1 {
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute; bottom: 60%;
+}
+.Q2 {
+    text-align: right;
+    position: absolute; right: 10%; bottom: 40%;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.table3 {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+}
+/*.table4 {
+    border: 5px solid black;
+
+   position: ; bottom: 3%;
+   width: 100%;
+    z-index: 1;
+   
+}*/
+
+.numbers {
+   position: absolute; bottom: 3%; width: 100%;
+}
